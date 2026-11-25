@@ -1,0 +1,12 @@
+Origem,Destino, Tipo de Estrada, Distancia est, Risco, Bloqueios, Custo est 
+S,B,Rua com pouco transito,200,2,nao,3
+S,D,Rua Estreita,150,2,nao,5
+B,A,Rua Livre,100,1,nao,1
+B,C,Rua com transito intenso,200,3,nao,4
+C,H,Rua Livre,150,1,nao,1
+B,E,Rua Bloqueada,130,4,sim,999
+D,E,Rua Livre,200,1,nao,1
+E,H,Rua Livre,200,1,nao,1
+D,F,Zona de Risco,200,3,nao,7
+F,G,Avenida de transito medio,500,2,nao,3
+G,H,Rua Livre,170,1,nao,1

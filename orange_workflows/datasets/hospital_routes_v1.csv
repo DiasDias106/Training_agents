@@ -1,0 +1,12 @@
+origem,destino,tipo estrada, trafego, distancia(m), nivel risco , bloqueada , custo , recomendado
+S,B,Rua,pouco,150,baixo,não,2,sim
+S,D,Rua,media,180,baixo,não,3,sim
+B,A,Rua,livre,200,baixo,não,1,sim
+B,C,Avenida,intenso,400,alto,não,5,não
+C,H,Rua,livre,100,baixo,não,1,sim
+D,E,Rua,livre,135,baixo,não,1,sim
+E,H,Rua,livre,210,baixo,não,1,sim
+E,B,Rua,bloqueado,300,alto,999,não
+D,F,Zona,alto,320,alto,7,não 
+F,G,Avenida,media,250,baixo,3,sim
+G,H,Rua,livre,170,baixo,1,sim
